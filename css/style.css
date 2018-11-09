@@ -1,0 +1,197 @@
+
+/*BOOTSTRAP & HTML5 BOILER PLATE JS JQ INTEGRATION ALTOGETHER
+Author: Riyad Ahsan
+Email: riyad298@gmail.com
+URL: http://riyadahsan.com/ */
+
+/* Media Query 
+
+ for mobile responsiveness 
+@media (max-width: 767px) { }
+ for tab responsiveness 
+@media (max-width: 1200px) and (min-width: 767px) { }
+ for desktop responsiveness 
+@media (min-width: 1200px){ }*/
+
+
+
+@media  (max-width: 767px) {
+
+.headerWrapperJumbotron {
+    
+}
+
+
+.headerWrapperButton {
+    
+    
+   
+    
+    
+}
+
+.marginTopForButton {
+    margin-top: 7px;
+}
+
+
+.list-group {
+ font-size: 25px;   
+}
+
+
+.listGroup a {
+    text-decoration: none;
+    
+    
+    
+}
+
+
+.list1 a {
+    color: white;
+}
+
+.ceoh2 {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+
+.ceoh6 {
+    color: royalblue;
+}
+
+.ceoPage i {
+    border-color: #1DA1F2;
+    
+    color: #1DA1F2;
+}
+
+
+.faIconMiddle {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+
+}
+
+
+
+@media  (max-width: 1200px) and (min-width: 767px) {
+
+.headerWrapperJumbotron {
+    
+}
+
+
+.headerWrapperButton {
+    
+    
+   
+    
+    
+}
+
+
+.list-group {
+ font-size: 25px;   
+}
+
+
+.listGroup a {
+    text-decoration: none;
+    
+    
+    
+}
+
+
+.list1 a {
+    color: white;
+}
+
+.ceoh2 {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+
+.ceoh6 {
+    color: royalblue;
+}
+
+.ceoPage i {
+    border-color: #1DA1F2;
+    
+    color: #1DA1F2;
+}
+
+
+.faIconMiddle {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+
+}
+
+
+@media  (min-width: 1200px) {
+
+.headerWrapperJumbotron {
+    
+}
+
+
+.headerWrapperButton {
+    
+    
+   margin-top: 19px;
+    
+    
+}
+
+
+.list-group {
+ font-size: 25px;   
+}
+
+
+.listGroup a {
+    text-decoration: none;
+    
+    
+    
+}
+
+
+.list1 a {
+    color: white;
+}
+
+.ceoh2 {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+
+.ceoh6 {
+    color: royalblue;
+}
+
+.ceoPage i {
+    border-color: #1DA1F2;
+    
+    color: #1DA1F2;
+}
+
+
+.faIconMiddle {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+
+}
